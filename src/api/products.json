@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Minouch Cat",
+    "price": 100,
+    "image": "/imgs/1.jpg",
+    "description": "Le Chat domestique est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés. "
+  },
+  {
+    "id": 2,
+    "name": "Turkich Cat",
+    "price": 150,
+    "image": "/imgs/2.jpg",
+    "description": "Le Chat domestique est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés. "
+  },
+  {
+    "id": 3,
+    "name": "Tigre Cat",
+    "price": 200,
+    "image": "/imgs/3.jpg",
+    "description": "Le Chat domestique est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés. "
+  },
+  {
+    "id": 4,
+    "name": "German Cat",
+    "price": 250,
+    "image": "/imgs/4.jpg",
+    "description": "Le Chat domestique est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés. "
+  },
+
+  {
+    "id": 5,
+    "name": "White Cat",
+    "price": 300,
+    "image": "/imgs/5.jpg",
+    "description": "Le Chat domestique est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés. "
+  },
+  {
+    "id": 6,
+    "name": "Belge Cat",
+    "price": 350,
+    "image": "/imgs/6.jpg",
+    "description": "Le Chat domestique est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés. "
+  },
+  {
+    "id": 7,
+    "name": "Siamoi Cat",
+    "price": 400,
+    "image": "/imgs/7.jpg",
+    "description": "Le Chat domestique est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés. "
+  }
+]
